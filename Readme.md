@@ -24,12 +24,15 @@ Constituencies with lowest voter turnout in 2014:
 
 
 Vote split among major parties in 2019: 
+
 ![image5](https://github.com/RajajiVignan/India-Election-Vote-Analysis/blob/5c86c331059a67c883a7451b8e0cbbe735f1493d/Images/img5.png?raw=true)
 
 Vote split among major parties in 2014: 
+
 ![image6](https://github.com/RajajiVignan/India-Election-Vote-Analysis/blob/5c86c331059a67c883a7451b8e0cbbe735f1493d/Images/img6.png?raw=true)
 
 Vote split at the constituency level, the end user can select the year and constituency to get the result:
+
 ![image7](https://github.com/RajajiVignan/India-Election-Vote-Analysis/blob/5c86c331059a67c883a7451b8e0cbbe735f1493d/Images/img7.png?raw=true)
 
 
